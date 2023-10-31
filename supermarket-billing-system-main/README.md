@@ -1,5 +1,5 @@
 # Super-Market-Billing-System
-A super market billing system made using CPP by Team #3, CSE B submitting for our Object Oriented Programming using C++ mini project in the academic year 2020-21.
+A super market billing system made using CPP and Object Oriented Programming.
 
 
 <!-- TABLE OF CONTENTS -->
@@ -62,22 +62,11 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/mg143pavankumar/supermarket-billing-system/](https://github.com/mg143pavankumar/supermarket-billing-system/)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
 
-* I would like to express my special thanks of gratitude to my faculty (Romy Sir) who gave us the golden opportunity to do this wonderful project on the topic 
-supermarket-billing-system, Which helped us gain a lot of indepth knowledge on the CPP core concepts as well as OOP concepts.
+
