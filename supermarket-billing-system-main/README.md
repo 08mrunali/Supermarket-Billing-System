@@ -11,9 +11,8 @@ A super market billing system made using CPP and Object Oriented Programming.
   * [Prerequisites](#prerequisites)
 * [Usage](#usage)
 * [Roadmap](#roadmap)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+
+
 
 
 
